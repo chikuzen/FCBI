@@ -2,6 +2,7 @@ src/.vs/*
 src/Debug/*
 src/Release/*
 src/x64/*
+archives/*
 *.sln
 *.db
 *.opendb
